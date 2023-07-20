@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/JagadeeshDamarasingu/JagadeeshDamarasingu/blob/root/media/images/banner.webp)](https://jagadeeshdamarasingu.github.io/)
+[![MasterHead](https://github.com/JagadeeshDamarasingu/JagadeeshDamarasingu/blob/root/media/images/banner.jpg)](https://jagadeeshdamarasingu.github.io/)
 <h1 align="center">Hi 👋, I'm Jagadeesh</h1>
 <h3 align="center">Karma Yogi | Avid Coder | Tech Maverick | Breaking Barriers</h3>
 
